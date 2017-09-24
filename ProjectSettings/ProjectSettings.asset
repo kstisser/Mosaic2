@@ -509,7 +509,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Mosaic
   metroPackageVersion: 
-  metroCertificatePath: C:\Unity Projects\Mosaic\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
